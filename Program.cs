@@ -18,6 +18,7 @@ namespace ConsoleApp14
 
             Console.Write($"Для значен x = {x}, F = {F} ");
             Console.Write("Осинкна ВВ 31ИС, Вариант 13");
+            Console.ReadKey();
         }
     }
 }
