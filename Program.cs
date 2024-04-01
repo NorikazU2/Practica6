@@ -17,7 +17,7 @@ namespace ConsoleApp14
             double F = Math.Cos(x) + Math.Cos(x);
 
             Console.Write($"Для значен x = {x}, F = {F} ");
-            Console.Write("Осинкна ВВ 31ИС");
+            Console.Write("Осинкна ВВ 31ИС, Вариант 13");
         }
     }
 }
